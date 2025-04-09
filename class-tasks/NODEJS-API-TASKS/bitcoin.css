@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background-color:rgb(224, 209, 181);
+    padding: 20px;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    box-shadow: 5px 4px 6px 7px gray;
+    
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#price-usd {
+    color: #4f483c;
+}
+
+#price-pkr {
+    color: #243445;
+}
+.bit{
+    border: 1px solid black;
+    border-radius: 30px;
+}
